@@ -1,0 +1,42 @@
+{
+    "name":"_common",
+    "status":true,
+    "parameters":{},
+    "dependencies": [
+								"_common/lodash",
+        
+        "_common/systemEvents",
+        "_common/menus/menu",
+        "_common/menus/mainMenu",
+        "_common/menus/windows",
+        "_common/nw",
+        "_common/menus/scenes",
+        "_common/saveProtector",
+        "_common/menus/cheatMenu",
+        "_common/static",
+
+        "_common/menus/devMenu",
+        "_common/clipboard",
+
+
+        "_common/API_CORE/heSoBBGirlAPI",
+        "_common/API_CORE/itemAPI",
+        "_common/API_CORE/vfxAPI",
+        "_common/API_CORE/actorAPI",
+        "_common/API_CORE/eventAPI",
+        "_common/API_CORE/troopAPI",
+        "_common/API_CORE/eventWrapper",
+        "_common/API_CORE/msgAPI",
+								"_common/API_CORE/unstuckAPI",
+								"_common/API_CORE/teleportsAPI",
+								"_common/API_CORE/miscAPI",
+        "_common/supporters",
+								"_common/seedRandom",
+        "_common/util",
+        
+								"_common/betterDebugMenu"
+								
+    ],
+    "danger": false
+
+}

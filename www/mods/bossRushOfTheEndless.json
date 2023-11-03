@@ -1,0 +1,28 @@
+{
+  "name": "bossRushOfTheEndless",
+  "status": false,
+  "parameters": {
+    "AllowEngaurd": true
+  },
+  "danger": true,
+  "assets": [
+    {
+      "source": "/mods/_bossRushOfTheEndless/images/",
+      "dest": "SYSTEM",
+      "name": "IconSet",
+      "type":"img"
+    },
+				{
+					"source": "/mods/_bossRushOfTheEndless/img/",
+					"dest": "",
+					"name": "",
+					"type":"imgFolder"
+			},
+			{
+				"source": "/mods/_bossRushOfTheEndless/data/",
+				"dest": "",
+				"name": "",
+				"type":"dataFolder"
+		}
+  ]
+}
